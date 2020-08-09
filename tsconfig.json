@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "rootDir": "./src",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "sourceMap": true,
+    "declaration": true,
+    "outDir": "./.dist",
+    "declarationDir": "./.dist"
+  },
+  "include": ["./src/"],
+  "exclude": ["./**/*.*.ts"]
+}

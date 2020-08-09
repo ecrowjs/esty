@@ -1,0 +1,15 @@
+{
+  "name": "@ecrowjs/esty",
+  "version": "1.0.0",
+  "description": "Esty (E-Crow STY-le) is a flexible style-only library extending the principles of UX & UI in the US Web Design System.",
+  "main": "index.js",
+  "repository": "git@github.com:ecrowjs/esty.git",
+  "author": "Eric Crowell <eric.crowell@ecrow.net>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@ecrowjs/eslint-config": "^1.0.2",
+    "@ecrowjs/npmpack": "^1.0.0",
+    "typescript": "^3.9.7"
+  }
+}
