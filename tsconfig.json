@@ -12,8 +12,7 @@
     "declarationDir": "./.dist",
     "baseUrl": "./",
     "paths": {
-      "@eldef/*": ["src/eldef/*"],
-      "@style/*": ["src/style/*"]
+      "@eldef/*": ["src/eldef/*"]
     }
   },
   "include": ["./src/"],
