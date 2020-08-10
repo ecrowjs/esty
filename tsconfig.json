@@ -9,7 +9,12 @@
     "sourceMap": true,
     "declaration": true,
     "outDir": "./.dist",
-    "declarationDir": "./.dist"
+    "declarationDir": "./.dist",
+    "baseUrl": "./",
+    "paths": {
+      "@eldef/*": ["src/eldef/*"],
+      "@style/*": ["src/style/*"]
+    }
   },
   "include": ["./src/"],
   "exclude": ["./**/*.*.ts"]
