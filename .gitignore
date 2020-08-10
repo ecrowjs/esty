@@ -119,3 +119,6 @@ pkg/
 
 # library
 .lib
+
+# distributable
+.dist
